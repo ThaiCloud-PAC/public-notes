@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: th-TH
-  baseUrl: thaicloud.github.io
+  baseUrl: thaicloud-pac.github.io/public-notes
   ignorePatterns:
     - private
     - templates
